@@ -1,7 +1,7 @@
 ### Hi there 👋
 You can follow my work at [nixhacker.com](https://nixhacker.com).
 
-- 🔭 I’m currently working on Memory Dumping tool
+- 🔭 Working on Windows Memory Dumping tool
 - 📫 You can reach me: shubham0d@protonmail.com
 
 <a href="https://github.com/shubham0d">
