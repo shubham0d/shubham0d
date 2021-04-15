@@ -1,7 +1,7 @@
 ### Hi there 👋
 You can follow my work at [nixhacker.com](https://nixhacker.com).
 
-- 🔭 Working on Windows Memory Dumping tool
+- 🔭 Working on a product for firmware based rootkits detection on linux
 - 📫 You can reach me: shubham0d@protonmail.com
 
 <a href="https://github.com/shubham0d">
@@ -17,7 +17,7 @@ You can follow my work at [nixhacker.com](https://nixhacker.com).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Memory Dumping tool
+- 🔭 I’m currently working on a product for linux firmware rootkits detection
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
