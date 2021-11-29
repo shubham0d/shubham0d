@@ -11,11 +11,9 @@ You can follow my work at [nixhacker.com](https://nixhacker.com).
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0d&show_icons=true&layout=compact" />
 </a>
 <br/>
+
 ### Visitors Count
 ![:name](https://count.getloli.com/get/@shubham0d)
-
-### Statistics
-[![srccrow](https://github-readme-stats.vercel.app/api?username=shubham0d&locale=en&show_icons=true&hide=contribs)](#)
 
 <!--
 **shubham0d/shubham0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
