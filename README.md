@@ -1,8 +1,8 @@
 ### Hi there 👋
 You can follow my work at [nixhacker.com](https://nixhacker.com).
 
-- 🔭 Working on a product for firmware based rootkits detection on linux
-- 📫 You can reach me: shubham0d@protonmail.com
+- 🔭 Working on a product for firmware threat detection and prevention toolkit for linux
+- 📫 You can reach me: shubham0d@proton.me
 
 <a href="https://github.com/shubham0d">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=shubham0d&count_private=true&show_icons=true" />
